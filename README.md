@@ -8,8 +8,10 @@
 - 🛠️ Providing **technical support**, troubleshooting software & hardware issues  
 - ⚙️ **Defining end-to-end locker processes** from station to customer delivery  
 - 💻 troubleshooting, deployments, monitoring, maintenance, upgrades, & server support  
-- 🎯 Utilizing **ServiceNow & SIM ticketing tools** to track & resolve issues, manage high-priority tickets, and provide **on-site & remote end-user support**
--  📊 Utilizing **Excel for weekly reporting** and data tracking  
+- 🎯 Utilizing **ServiceNow & SIM ticketing tools** to track & resolve issues,
+- ⚙️Analyze ticket root causes and develop action plans for resolution
+- 🎯manage high-priority tickets, and provide **on-site & remote end-user support**
+-  📊 Utilizing **Excel and Power BI for weekly reporting** and data tracking    
 - 📊 Passionate about **data analytics, process optimization, and automation**  
 - 🔍 Exploring **business intelligence & operational excellence**  
 
